@@ -1,0 +1,15 @@
+﻿  WinSock.cpp
+C:\Users\ziaud\source\repos\WinSock\WinSock\winsock.hpp(34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winsock2.h(1831): note: see declaration of 'inet_addr'
+C:\Users\ziaud\source\repos\WinSock\WinSock\winsock.hpp(36): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winsock2.h(2219): note: see declaration of 'gethostbyname'
+C:\Users\ziaud\source\repos\WinSock\WinSock\winsock.hpp(40): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winsock2.h(1831): note: see declaration of 'inet_addr'
+C:\Users\ziaud\source\repos\WinSock\WinSock\winsock.hpp(41): warning C4996: 'gethostbyaddr': Use getnameinfo() or GetNameInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winsock2.h(2197): note: see declaration of 'gethostbyaddr'
+  Generating code
+  2 of 368 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WinSock.vcxproj -> C:\Users\ziaud\source\repos\WinSock\Release\WinSock.exe
